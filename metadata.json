@@ -1,0 +1,6 @@
+{
+  "name": "Tap'Étoile - Mini-Jeu Android",
+  "description": "Mini-jeu d'arcade coloré et captivant optimisé pour mobile Android avec écran d'accueil, score et bouton rejouer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
